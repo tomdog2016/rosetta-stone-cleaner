@@ -1,4 +1,4 @@
-# Rosetta Stone组件清除工具
+# Rosetta Stone组件清除工具这样你就可以重新安装，对意外中断卸载过程的Rosetta Stone有效。
 
 这是一个用于安全删除Windows注册表中Rosetta Stone相关组件的Python脚本工具。该工具专门针对位于`HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Components`路径下的特定组件进行清理。
 
